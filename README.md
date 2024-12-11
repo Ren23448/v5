@@ -44,7 +44,7 @@ Doge Unblocker is a site unblocker powered by [Ultraviolet](https://github.com/t
 
 **Deploy locally:**
 ```
-git clone https://github.com/DogeNetwork/v4
+git clone https://github.com/DogeNetwork/v5
 cd v4
 npm install
 npm start
